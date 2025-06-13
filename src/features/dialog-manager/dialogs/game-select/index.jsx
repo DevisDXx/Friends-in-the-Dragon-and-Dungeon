@@ -15,7 +15,7 @@ const GameSelect = ({ mainGameDialog, endlessGameDialog, loadGame }) => {
         <Dialog>
             <span className="flex-row game-select__title align-center">
                 <img
-                    src="/logo-no-bg.png"
+                    src="public/logo-no-bg.png"
                     alt="Friends in the Dragon & Dungeon"
                     style={{ width: 64, height: 64, marginRight: 8 }}
                 />
