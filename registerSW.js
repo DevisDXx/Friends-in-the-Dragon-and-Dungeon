@@ -1,1 +1,1 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Friends-in-the-Dragons-and-Dungeons/sw.js', { scope: '/Friends-in-the-Dragons-and-Dungeons/' })})}
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/Friends-in-the-Dragon-and-Dungeons/sw.js', { scope: '/Friends-in-the-Dragon-and-Dungeons/' })})}
